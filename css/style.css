@@ -1,0 +1,42 @@
+body {
+    /* color: blue; */
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+header {
+    background-color: rgb(18, 18, 178);
+    color: rgb(233, 244, 91);
+}
+
+.giumbo {
+    /* margin-top: 0; */
+    height: 30rem;
+    background-image: url(../images/cover-bg.png);
+    background-size: cover;
+    background-position: center;
+    /* background-color: aqua; */
+    color: white;
+}
+
+section {
+    width: 80%;
+    margin: auto;
+}
+
+.gen-ai img {
+    height: 400px;
+}
+
+.sec-2 img {
+    width: 100%;
+    padding-bottom: 1rem;
+}
+
+footer {
+    background-color: rgb(18, 18, 178);
+    color: white;
+}
+
+footer a {
+    color: rgb(200, 22, 192);
+}
